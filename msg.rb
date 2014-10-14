@@ -1,10 +1,10 @@
 
 module Msg
-	def hello
+	def Msg.hello
 		"Hello world"
 	end
 
-	def bye
+	def Msg.bye
 		"Goodbye!"
 	end
 end
