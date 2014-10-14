@@ -1,3 +1,4 @@
 #!ruby
 
-puts 'Hello World'
+require_relative 'msg'
+puts Msg.hello
